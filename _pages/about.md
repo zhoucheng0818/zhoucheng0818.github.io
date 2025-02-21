@@ -1,11 +1,11 @@
-<!-- ---
+---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: " "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
---- -->
+---
 
 I love robotics research and system development. I am good at developing robot systems from a system perspective, researching and deploying algorithms from a unified technical route.
 
