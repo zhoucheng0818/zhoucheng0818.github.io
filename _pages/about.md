@@ -12,10 +12,10 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 Research Focus
 ======
-1. Robot force control/Motion control/Whole body control
-1. Dexterous Manipulation and Locomotion
-1. Robot System
-1. RL
+1. Robot Algorithm: Robot force control/Motion control/Whole body control
+1. Robot Task: Dexterous Manipulation and Locomotion
+1. Robot System: Manipulator, Humanoid Robot, Teleoperation Robot, Segway
+1. AI: GPS, Offline RL, RL
 
 Research Highlights
 ======
