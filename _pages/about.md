@@ -14,7 +14,7 @@ Research Focus
 ======
 1. Robot Algorithm: Robot force control/Motion control/Whole body control
 1. Robot Task: Dexterous Manipulation and Locomotion
-1. Robot System: Manipulator, Humanoid Robot, Teleoperation Robot, Segway
+1. Robot System: Manipulator, Humanoid Robot, Teleoperation Robot, Segway, Robot Hardware-in-the-loop System
 1. AI: GPS, Offline RL, RL
 
 Research Highlights
